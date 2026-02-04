@@ -1,0 +1,26 @@
+# Mastercard – Data & Business Insights Project
+
+## Project Type
+Data & Business Analysis Case Study
+
+## Project Overview
+This project involves analyzing business and transactional data to generate insights for decision-making in a financial services context.
+
+## Objective
+To interpret data, identify trends, and support data-driven business decisions.
+
+## My Responsibilities
+- Analyzed transactional and business data
+- Identified trends and patterns
+- Ensured data accuracy and consistency
+- Translated data findings into business insights
+
+## Skills Used
+- Data Analysis
+- Analytical Reasoning
+- Reporting
+- Attention to Detail
+- Business Understanding
+
+## Key Outcome
+Developed the ability to convert data into meaningful insights for business decisions.
